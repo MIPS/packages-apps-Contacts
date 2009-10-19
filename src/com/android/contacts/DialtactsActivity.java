@@ -41,7 +41,7 @@ import com.android.internal.telephony.ITelephony;
  * are embedded using intents.
  */
 public class DialtactsActivity extends TabActivity implements TabHost.OnTabChangeListener {
-    private static final String TAG = "Dailtacts";
+    private static final String TAG = "Dialtacts";
     private static final String FAVORITES_ENTRY_COMPONENT =
             "com.android.contacts.DialtactsFavoritesEntryActivity";
 
