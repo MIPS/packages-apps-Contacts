@@ -40,7 +40,7 @@ import android.widget.TabHost;
  * The dialer tab's title is 'phone', a more common name (see strings.xml).
  */
 public class DialtactsActivity extends TabActivity implements TabHost.OnTabChangeListener {
-    private static final String TAG = "Dailtacts";
+    private static final String TAG = "Dialtacts";
     private static final String FAVORITES_ENTRY_COMPONENT =
             "com.android.contacts.DialtactsFavoritesEntryActivity";
 
